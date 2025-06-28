@@ -1,0 +1,17 @@
+LAB#4 Set up a basic Ansible environment to manage local servers 
+
+Testing the connectivity 
+
+Create a file on Tmp directory using Ansible playbook.
+
+PRErequisite:
+
+Create ec2 instance master and node
+
+Install Ansible
+
+Status of ansible
+
+Setup hostfile
+
+Ping the nodes

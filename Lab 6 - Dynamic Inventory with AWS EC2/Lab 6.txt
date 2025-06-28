@@ -1,0 +1,15 @@
+LAB#6-Create an Ansible playbook to automate the installation of software packages (nginx, git, python3) on servers within the localhost group 
+
+
+
+Prerequisites: 
+
+Create ec2 instance ,master n nodes
+
+Install ansible 
+
+Setup inventory file 
+
+Status of ansible
+
+Ping the node 
